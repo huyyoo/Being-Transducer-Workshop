@@ -1,1 +1,1 @@
-The code for Being Transducer Workshop
+The code for Being Transducer workshop
